@@ -1,0 +1,54 @@
+.titulo {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.born{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.study {
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.place {
+    color: darkmagenta;
+    font-family: monospace;
+    text-align: justify;
+    font-size: 40px;
+}
+
+.words{
+    color: white;
+    font-family: monospace;
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 7px 4px 5px purple;
+}
+
+.conteiner {
+    width: 700px;
+    padding: auto;
+    text-align: center;
+    border: 1px solid purple;
+    margin: o auto;
+
+}
+
+body {
+    background-image: url(https://www.xtrafondos.com/wallpapers/resized/ejercito-vikingo-eivor-assassins-creed-valhalla-5392.jpg?s=large);
+    background-size: cover;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    
+}
